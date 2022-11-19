@@ -1,5 +1,6 @@
 # :pushpin: 도서관리API 
->도서관리API
+>CRUD 기능을 기반으로하는 도서관리API입니다.
+>GET, POST, PATCH, DELETE 메서드를 통해 조회,등록,수정, 삭제기능을 구현해보았습니다.
 
 
 </br>
@@ -12,11 +13,9 @@
 
 ## 2. 사용 기술
 #### `Back-end`
-  - Java 11
   - Spring Boot 2.7.5
   - Gradle
   - Spring Data JPA
-  - H2
   - MySQL 8.0.3
 
 
